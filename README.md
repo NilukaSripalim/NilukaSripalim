@@ -88,28 +88,6 @@ I enjoy **sharing knowledge** through posts, diagrams, and examples—especially
 
 ---
 
-## 🏆 Featured Repositories
-
-<p align="center">
-  <a href="https://github.com/NilukaSripalim/cypress-test-example-niluka">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NilukaSripalim&repo=cypress-test-example-niluka&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/NilukaSripalim/cypress-example-niluka">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NilukaSripalim&repo=cypress-example-niluka&theme=tokyonight" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/NilukaSripalim/cypress-automation-niluka">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NilukaSripalim&repo=cypress-automation-niluka&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/NilukaSripalim/sample-java-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NilukaSripalim&repo=sample-java-project&theme=tokyonight" />
-  </a>
-</p>
-
----
-
 ## 🧪 Active Focus Areas
 
 - LLM-driven test automation & AI-assisted workflows  
@@ -120,3 +98,24 @@ I enjoy **sharing knowledge** through posts, diagrams, and examples—especially
 ---
 
 ## 💡 Engineering Principles
+
+```
+⚙ Test for the Future — Not Just Today
+🧠 Automate with Intent — Not Blind Coverage
+🚀 Design for Scale — Optimize for Feedback Speed
+💡 Quality = Reliability + Trust + Observability
+```
+
+---
+
+<div align="center">
+
+### ⭐ If My Work Inspires You — Consider Starring a Repository
+
+**Let's architect the future of testing — with intelligence.** 🚀
+
+<br/>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00E6FF,100:9A00FF&height=120&section=footer)
+
+</div>
