@@ -109,8 +109,6 @@ I enjoy **sharing knowledge** through posts, diagrams, and examples—especially
 
 **Let's architect the future of testing — with intelligence.** 🚀
 
-<br/>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00E6FF,100:9A00FF&height=120&section=footer&text=Made%20with%20❤️%20and%20AI&fontSize=24&fontColor=ffffff)
-
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00E6FF,100:9A00FF&height=120&section=footer&text=Building%20the%20future%20of%20testing%20with%20intelligence%20❤️&fontSize=24&fontColor=ffffff)
 </div>
