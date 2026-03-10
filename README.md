@@ -75,11 +75,6 @@ I enjoy **sharing knowledge** through posts, diagrams, and examples—especially
 
 <div align="center">
 
-<a href="https://github.com/NilukaSripalim">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NilukaSripalim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NilukaSripalim&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</a>
-
 <br/><br/>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NilukaSripalim&theme=tokyonight&hide_border=true)](https://github.com/NilukaSripalim)
@@ -116,6 +111,6 @@ I enjoy **sharing knowledge** through posts, diagrams, and examples—especially
 
 <br/>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00E6FF,100:9A00FF&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00E6FF,100:9A00FF&height=120&section=footer&text=Made%20with%20❤️%20and%20AI&fontSize=24&fontColor=ffffff)
 
 </div>
