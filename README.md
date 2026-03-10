@@ -21,9 +21,14 @@ Blending **AI + Automation + Observability** to redefine modern testing
 ![GitHub Actions](https://img.shields.io/badge/GITHUB_ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-00C853?style=for-the-badge&logo=circleci&logoColor=white)
 ![Cypress](https://img.shields.io/badge/CYPRESS-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Playwright](https://img.shields.io/badge/PLAYWRIGHT-FF4F00?style=for-the-badge&logo=playwright&logoColor=white)
+![Appium](https://img.shields.io/badge/APPIUM-4394F1?style=for-the-badge&logo=appium&logoColor=white)
+![REST Assured](https://img.shields.io/badge/REST_ASSURED-2D2D2D?style=for-the-badge&logo=java&logoColor=white)
+![Postman](https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![E2E Testing](https://img.shields.io/badge/E2E_TESTING-00B4AB?style=for-the-badge&logo=testcafe&logoColor=white)
 
 <br/>
+## 🔗 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niluka-sripali-monnankulama-076b59b0)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/mvsaran](https://github.com/NilukaSripalim))
@@ -31,10 +36,59 @@ Blending **AI + Automation + Observability** to redefine modern testing
 
 </div>
 
+---
+
+## 🚀 Technical Scope Overview
+
+| Category | Tools & Skills |
+|---------|----------------|
+| **Automation** | Selenium • Cypress • Playwright • Appium |
+| **AI & Next Gen** | AI Agents • MCP Server • Intelligent Automation |
+| **Frameworks** | POM • BDD (Cucumber) • Modular • Hybrid |
+| **API & Contract Testing** | REST Assured • Swagger • Schema Validation |
+| **DevOps & CI/CD** | GitHub Actions • Jenkins • Docker |
+| **Core Languages** | Java • JavaScript • TypeScript • Python |
 
 ---
 
-## 🙋‍♀️ About Me
+## 📈 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/mvsaran">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mvsaran&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvsaran&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</a>
+
+<br/><br/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mvsaran&theme=tokyonight&hide_border=true)](https://github.com/mvsaran)
+
+</div>
+
+---
+
+## 🧪 Active Focus Areas
+
+- LLM-driven test automation & autonomy
+- Playwright + Cypress hybrid architecture
+- AI-augmented validation pipelines
+- Enterprise-grade parallel execution frameworks
+
+---
+
+## 💡 Engineering Principles
+
+```
+⚙ Test for the Future — Not Just Today
+🧠 Automate with Intent — Not Blind Coverage
+🚀 Design for Scale — Optimize for Feedback Speed
+💡 Quality = Reliability + Trust + Observability
+
+```
+---
+
+## 🙋‍♀️ Simply about Me
 
 I’m an **Associate Technical Lead at WSO2**, leading the **Identity & Access Management (IAM) QA team**, with **8+ years of experience** in software testing, automation engineering, and quality assurance across enterprise-grade systems.
 
@@ -64,25 +118,6 @@ I enjoy continuous learning and sharing knowledge through technical posts, diagr
 
 ---
 
-## 🔗 Connect with me
-
-<p>
-  <a href="https://www.linkedin.com/in/niluka-sripali-monnankulama-076b59b0" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/NilukaSripali" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://medium.com/tech-learn-share" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Medium-Tech%20Learn%20Share-000000?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@niluka" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Medium-@niluka-000000?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-</p>
-
----
-
 ## 🔧 Core Expertise
 
 - **Test Automation:** Cypress, Playwright, Selenium, Appium  
@@ -96,17 +131,6 @@ I enjoy continuous learning and sharing knowledge through technical posts, diagr
 
 ---
 
-## 🧰 Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Rest%20Assured-2D2D2D?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-</p>
-
 ---
 
 ## 📈 GitHub Stats
@@ -118,36 +142,6 @@ I enjoy continuous learning and sharing knowledge through technical posts, diagr
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NilukaSripalim&theme=tokyonight&hide_border=true" alt="NilukaSripalim streak stats" />
-</p>
-
----
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NilukaSripalim&theme=tokyonight&row=1&column=7" alt="NilukaSripalim trophies" />
-</p>
-
----
-
-## 📌 Featured Repositories
-
-<p align="center">
-  <a href="https://github.com/NilukaSripalim/cypress-test-example-niluka">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NilukaSripalim&repo=cypress-test-example-niluka&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/NilukaSripalim/cypress-example-niluka">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NilukaSripalim&repo=cypress-example-niluka&theme=tokyonight" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/NilukaSripalim/cypress-automation-niluka">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NilukaSripalim&repo=cypress-automation-niluka&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/NilukaSripalim/sample-java-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NilukaSripalim&repo=sample-java-project&theme=tokyonight" />
-  </a>
 </p>
 
 ---
