@@ -56,18 +56,42 @@ I combine **hands-on technical expertise with strategic leadership** to:
 
 I enjoy **sharing knowledge** through posts, diagrams, and examples—especially around **test automation, IAM, mobile testing, and quality engineering leadership**.  
 
+## 🔭 Current Focus
+
+- Building scalable Playwright automation frameworks
+- AI-integrated QA automation
+- Agentic workflows & AI testing techniques
+- API automation ecosystems
+- Cloud-native CI/CD pipelines
+- Learning python & AI Agent Building
+
 ---
 
 ## 🚀 Technical Scope Overview
 
-| Category | Tools & Skills |
-|---------|----------------|
-| **Automation** | Cypress • Playwright • Appium • Selenium |
-| **AI & Next Gen** | AI Agents • MCP Server • AI-assisted test automation |
-| **Frameworks** | POM • BDD (Cucumber) • Modular • Hybrid |
-| **API & Contract Testing** | REST Assured • Postman • Swagger • Schema Validation |
-| **DevOps & CI/CD** | GitHub Actions • Jenkins • Docker |
-| **Core Languages** | Java • JavaScript • TypeScript • Python |
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### DB
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Automation & Testing
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![REST Assured](https://img.shields.io/badge/REST_Assured-000000?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-red?style=for-the-badge)
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### AI & Workflow Automation
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
 
 ---
 
@@ -89,6 +113,13 @@ I enjoy **sharing knowledge** through posts, diagrams, and examples—especially
 - Hybrid Cypress + Playwright architecture  
 - Enterprise-grade parallel execution & orchestration frameworks  
 - CI/CD & AI-optimized validation pipelines  
+
+---
+
+## 🧠 AI Certifications
+
+### PRACTITIONER
+- Claude Code 101 — Completed
 
 ---
 
