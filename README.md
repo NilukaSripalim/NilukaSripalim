@@ -4,7 +4,7 @@
 
 **Associate Technical Lead | IAM QA Leader | Test Automation & AI Advocate**  
 
-**9+ yrs • Cypress Ambassador • AI Test Automation • IAM QA Lead**  
+**10+ yrs • Cypress Ambassador • AI Test Automation • IAM QA Lead**  
 
 Engineering reliable, scalable, and intelligent test automation frameworks  
 Blending **AI + Automation + Observability + QA Leadership** to deliver enterprise-grade quality  
